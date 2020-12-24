@@ -6,4 +6,4 @@ A lot of the explanation is contained in `Map_of_NZ_using_Geodetic_Markers.ipynb
 
 ## Feedback
 
-I will be happy with any feedback
+I will be happy with any feedback. [So please get in touch](https://shivansivakumaran.com/contact/).
